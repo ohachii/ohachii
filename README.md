@@ -7,11 +7,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=2563EB&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Transformando+cafe+em+codigo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=2563EB&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Transformando+café+em+código" alt="Typing SVG" />
   </a>
   <br>
-  <span style="font-size: 40px;">☕</span>
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/2615.svg" width="40px" alt="café">
 </p>
+
 
 
 ---
