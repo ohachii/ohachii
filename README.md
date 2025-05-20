@@ -4,6 +4,10 @@
 🚀 Explorando Java e Programação Orientada a Objetos  
 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFNMG
 
+Tenho 22 anos e trabalho com desenvolvimento de software, com foco em PHP (Laravel), Java, Python e tecnologias web. Também tenho interesse em design gráfico e UI/UX, utilizando ferramentas como Figma e Adobe Creative Cloud.
+
+Estou sempre buscando aprender e melhorar minhas habilidades por meio de projetos práticos.
+
 ---
 
 <p align="center">
