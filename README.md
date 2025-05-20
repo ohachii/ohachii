@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=2563EB&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Transformando+café+em+código" alt="Typing SVG" />
   </a>
   <br>
-  <img src="https://twemoji.maxcdn.com/v/latest/svg/2615.svg" width="40px" alt="café">
+  <img src="https://github.com/twitter/twemoji/raw/master/assets/72x72/2615.png" width="40px" />
 </p>
 
 
