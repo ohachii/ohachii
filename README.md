@@ -1,19 +1,18 @@
-<h1 align="center">👋 Olá! Eu me chamo Weder</h1>
+# 👋 Olá! Eu me chamo Weder
 
-<p align="center">
-  🎯 Desenvolvedor Front-end & Back-end | 📌 Focado em PHP (Laravel), PostgreSQL e Docker <br>
-  🚀 Explorando Java e Programação Orientada a Objetos | 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFNMG
-</p>
+🎯 Desenvolvedor Front-end & Back-end | 📌 Focado em PHP (Laravel), PostgreSQL e Docker  
+🚀 Explorando Java e Programação Orientada a Objetos  
+🎓 Cursando Análise e Desenvolvimento de Sistemas no IFNMG
+
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=2563EB&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Transformando+café+em+código" alt="Typing SVG" />
   </a>
   <br>
-  <img src="https://github.com/twitter/twemoji/raw/master/assets/72x72/2615.png" width="40px" />
+  <img src="https://github.com/twitter/twemoji/raw/master/assets/72x72/2615.png" width="40px" alt="café"/>
 </p>
-
-
 
 ---
 
@@ -38,6 +37,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+---
 
 ### 📫 Conecte-se comigo
 
@@ -49,7 +49,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
