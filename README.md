@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Seja+Bem-Vindo+ao+meu+perfil!;Transformando+café+em+código+☕" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=000000&width=435&lines=Seja+Bem-Vindo+ao+meu+perfil+!;Transformando+café+em+código+☕" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,6 +35,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weder-santos-pessoa-2b0a45246/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wederpessoa202@gmail.com)
+
+---
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p>
