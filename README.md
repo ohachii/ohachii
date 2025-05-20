@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=212529&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Transformando+café+em+código+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=2563EB&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Transformando+café+em+código+☕" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
 
 ### 📫 Conecte-se comigo
 
@@ -47,7 +46,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
