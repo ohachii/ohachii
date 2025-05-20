@@ -37,6 +37,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+### 🎨 Design
+UI/UX, Design Gráfico e Ferramentas Criativas que uso:
+
+<p> <img alt="Figma" height="24" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="Adobe Creative Cloud" height="24" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white" /> </p>
+
 ---
 
 ### 🔥 Projetos em Destaque
@@ -46,10 +51,6 @@ Projeto focado no desenvolvimento e manutenção do site oficial de eventos do I
 Tecnologias usadas:
 
 <p> <img alt="TypeScript" height="24" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="React" height="24" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img alt="Laravel" height="24" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="Docker" height="24" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p>
-🎨 Design
-UI/UX, Design Gráfico e Ferramentas Criativas que uso:
-
-<p> <img alt="Figma" height="24" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="Adobe Creative Cloud" height="24" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white" /> </p>
 
 ---
 
