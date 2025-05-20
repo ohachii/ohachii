@@ -37,7 +37,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-🔥 Projetos em Destaque
+---
+
+### 🔥 Projetos em Destaque
 🌐 PharusV2 - Site de Eventos IFNMG
 Projeto focado no desenvolvimento e manutenção do site oficial de eventos do Instituto Federal do Norte de Minas Gerais (IFNMG). Trabalho nas áreas de front-end e back-end para garantir uma experiência fluida e funcionalidades robustas.
 
