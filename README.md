@@ -1,7 +1,7 @@
 # 👋 Olá! Eu me chamo Weder
 
 🎯 Desenvolvedor Front-end & Back-end | 📌 Focado em PHP (Laravel), PostgreSQL e Docker  
-🚀 Explorando Java, React Native e TypeScript
+🚀 Explorando Java, React Native e TypeScript<br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFNMG
 
 Tenho 23 anos e trabalho com desenvolvimento de software, com foco em PHP (Laravel), Java, Python e tecnologias web. Também tenho interesse em design gráfico e UI/UX, utilizando ferramentas como Figma e Adobe Creative Cloud.
